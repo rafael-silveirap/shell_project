@@ -63,7 +63,7 @@ Instalação
 Clone o repositório:
 
 ```bash
-git clone [https://github.com/rafael-silveirap/shell_project.git](https://github.com/rafael-silveirap/shell_project.git)
+git clone https://github.com/rafael-silveirap/shell_project.git
 ```
 Compile usando o Makefile fornecido:
 
