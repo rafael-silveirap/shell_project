@@ -17,7 +17,7 @@
 Este projeto é uma implementação funcional de um shell de terminal que interage diretamente com o Kernel do Linux. Ele não utiliza bibliotecas de alto nível para o gerenciamento de tarefas; em vez disso, lida de forma "bare-metal" com a criação de processos, roteamento de memória e manipulação de interrupções de hardware.
 
 
-## Arquitetura e "Under the Hood"
+## Arquitetura
 
 O grande diferencial deste projeto é a aplicação prática de conceitos clássicos de Sistemas Operacionais. A arquitetura foi construída sobre quatro pilares principais da API POSIX:
 
