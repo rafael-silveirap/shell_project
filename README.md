@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Custom C Shell</h1>
+<h1 align="center">Custom C Shell</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c" alt="C">
